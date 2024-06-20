@@ -1,222 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/gdCKme3.png",Com Brasil SD
-http://5ce.co:80/pamelaflores/92446060a/180723
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png",Canal do Boi FHD
-http://5ce.co:80/pamelaflores/92446060a/100446
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png",Canal do Boi HD
-http://5ce.co:80/pamelaflores/92446060a/100447
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png",Canal do Boi SD
-http://5ce.co:80/pamelaflores/92446060a/76300
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/canaldoboi.png",Canal do Boi SD²
-http://5ce.co:80/pamelaflores/92446060a/100448
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/canalrural.png",Canal Rural SD
-http://5ce.co:80/pamelaflores/92446060a/6425
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/canalrural.png",Canal Rural SD²
-http://5ce.co:80/pamelaflores/92446060a/100525
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/futura.png",Futura FHD
-http://5ce.co:80/pamelaflores/92446060a/26151
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/futura.png",Futura FHD²
-http://5ce.co:80/pamelaflores/92446060a/100461
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/futura.png",Futura HD
-http://5ce.co:80/pamelaflores/92446060a/10805
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/futura.png",Futura HD²
-http://5ce.co:80/pamelaflores/92446060a/100462
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/futura.png",Futura SD
-http://5ce.co:80/pamelaflores/92446060a/6573
-#EXTINF:-1 group-title="ABERTOS",ISTV Guaruja SP
-http://5ce.co:80/pamelaflores/92446060a/35777
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/futura.png",Futura SD²
-http://5ce.co:80/pamelaflores/92446060a/10806
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/redebrasil.png",Rede Brasil SD
-http://5ce.co:80/pamelaflores/92446060a/70
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://70.ms/ZgY3Sx",Rede Minas TV FHD
-http://5ce.co:80/pamelaflores/92446060a/85779
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/redetv.png",Rede TV FHD
-http://5ce.co:80/pamelaflores/92446060a/28626
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/redetv.png",Rede TV FHD²
-http://5ce.co:80/pamelaflores/92446060a/100532
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/redetv.png",Rede TV HD
-http://5ce.co:80/pamelaflores/92446060a/10701
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/redetv.png",Rede TV HD²
-http://5ce.co:80/pamelaflores/92446060a/6497
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/redetv.png",Rede TV SD
-http://5ce.co:80/pamelaflores/92446060a/6410
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/redetv.png",Rede TV SD²
-http://5ce.co:80/pamelaflores/92446060a/10702
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/SEXcD8Z.png",Sesc Tv
-http://5ce.co:80/pamelaflores/92446060a/180816
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/terraviva.png",Terra Viva SD²
-http://5ce.co:80/pamelaflores/92446060a/10661
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvbrasil.png",TV Brasil FHD
-http://5ce.co:80/pamelaflores/92446060a/100493
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvbrasil.png",TV Brasil HD
-http://5ce.co:80/pamelaflores/92446060a/100494
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvbrasil.png",TV Brasil SD
-http://5ce.co:80/pamelaflores/92446060a/100495
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://imgur.com/nNtiCHp",TV Camocim CE
-http://5ce.co:80/pamelaflores/92446060a/217379
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://imgur.com/z1PoaKX",TVCI
-http://5ce.co:80/pamelaflores/92446060a/217375
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura FHD
-http://5ce.co:80/pamelaflores/92446060a/28627
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura FHD²
-http://5ce.co:80/pamelaflores/92446060a/63750
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura HD
-http://5ce.co:80/pamelaflores/92446060a/10664
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura HD²
-http://5ce.co:80/pamelaflores/92446060a/63751
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura SD
-http://5ce.co:80/pamelaflores/92446060a/6449
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvcultura.png",TV Cultura SD²
-http://5ce.co:80/pamelaflores/92446060a/100439
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/tvcamara.png",TV Câmara SD
-http://5ce.co:80/pamelaflores/92446060a/28679
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://70.ms/Yw",TV Diario Fortaleza FHD
-http://5ce.co:80/pamelaflores/92446060a/363
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvbrasil.png",TV Brasil HD²
-http://5ce.co:80/pamelaflores/92446060a/100537
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="http://fivetv.xyz/logos/tvbrasil.png",TV Brasil SD²
-http://5ce.co:80/pamelaflores/92446060a/10755
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://fivetv.xyz/logos/terrabrasil.png",Terra Viva HD
-http://5ce.co:80/pamelaflores/92446060a/100496
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://imgur.com/U7qgDdX",UnB TV
-http://5ce.co:80/pamelaflores/92446060a/217383
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ZdxMg7Z.png",UNIVESP FHD
-http://5ce.co:80/pamelaflores/92446060a/10670
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band Campinas HD
-http://5ce.co:80/pamelaflores/92446060a/100370
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band Campinas HD²
-http://5ce.co:80/pamelaflores/92446060a/211634
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band Campinas SD
-http://5ce.co:80/pamelaflores/92446060a/100371
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band Campinas SD²
-http://5ce.co:80/pamelaflores/92446060a/211635
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band FHD
-http://5ce.co:80/pamelaflores/92446060a/10678
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band FHD²
-http://5ce.co:80/pamelaflores/92446060a/100478
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band FHD³
-http://5ce.co:80/pamelaflores/92446060a/210884
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band FHD⁴
-http://5ce.co:80/pamelaflores/92446060a/211667
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band HD
-http://5ce.co:80/pamelaflores/92446060a/28628
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band HD²
-http://5ce.co:80/pamelaflores/92446060a/100479
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band HD³
-http://5ce.co:80/pamelaflores/92446060a/100480
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band HD⁴
-http://5ce.co:80/pamelaflores/92446060a/211668
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band RJ FHD
-http://5ce.co:80/pamelaflores/92446060a/28629
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band RJ HD
-http://5ce.co:80/pamelaflores/92446060a/10687
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band RJ HD²
-http://5ce.co:80/pamelaflores/92446060a/211660
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band SD
-http://5ce.co:80/pamelaflores/92446060a/28589
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band SP FHD
-http://5ce.co:80/pamelaflores/92446060a/28630
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band SP HD
-http://5ce.co:80/pamelaflores/92446060a/28631
-#EXTINF:-1 group-title="BAND" tvg-logo="http://fivetv.xyz/logos/band.png",Band SP SD
-http://5ce.co:80/pamelaflores/92446060a/6481
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/1FRwZL9.png",SBT FHD
-http://5ce.co:80/pamelaflores/92446060a/10689
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/1FRwZL9.png",SBT FHD²
-http://5ce.co:80/pamelaflores/92446060a/100533
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/1FRwZL9.png",SBT HD
-http://5ce.co:80/pamelaflores/92446060a/100380
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/1FRwZL9.png",SBT SD
-http://5ce.co:80/pamelaflores/92446060a/6752
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/1FRwZL9.png",SBT SD²
-http://5ce.co:80/pamelaflores/92446060a/6765
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo Brasília HD
-http://5ce.co:80/pamelaflores/92446060a/10761
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo Campinas HD
-http://5ce.co:80/pamelaflores/92446060a/100546
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo DF FHD
-http://5ce.co:80/pamelaflores/92446060a/10757
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo DF HD
-http://5ce.co:80/pamelaflores/92446060a/10756
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ FHD
-http://5ce.co:80/pamelaflores/92446060a/10759
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ HD
-http://5ce.co:80/pamelaflores/92446060a/10758
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo SP FHD
-http://5ce.co:80/pamelaflores/92446060a/10755
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo SP HD
-http://5ce.co:80/pamelaflores/92446060a/10754
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo SP SD
-http://5ce.co:80/pamelaflores/92446060a/6483
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo SP SD²
-http://5ce.co:80/pamelaflores/92446060a/6484
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo SP SD³
-http://5ce.co:80/pamelaflores/92446060a/6485
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo SP SD⁴
-http://5ce.co:80/pamelaflores/92446060a/100539
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD
-http://5ce.co:80/pamelaflores/92446060a/10690
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD²
-http://5ce.co:80/pamelaflores/92446060a/10691
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD³
-http://5ce.co:80/pamelaflores/92446060a/100541
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD⁴
-http://5ce.co:80/pamelaflores/92446060a/100542
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD⁵
-http://5ce.co:80/pamelaflores/92446060a/10692
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD⁶
-http://5ce.co:80/pamelaflores/92446060a/10693
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD⁷
-http://5ce.co:80/pamelaflores/92446060a/10694
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD⁸
-http://5ce.co:80/pamelaflores/92446060a/10695
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD⁹
-http://5ce.co:80/pamelaflores/92446060a/10696
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD¹⁰
-http://5ce.co:80/pamelaflores/92446060a/10697
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD¹¹
-http://5ce.co:80/pamelaflores/92446060a/10698
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD¹²
-http://5ce.co:80/pamelaflores/92446060a/10699
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD¹³
-http://5ce.co:80/pamelaflores/92446060a/100543
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD¹⁴
-http://5ce.co:80/pamelaflores/92446060a/100544
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="http://fivetv.xyz/logos/tvglobo.png",TV Globo RJ SD¹⁵
-http://5ce.co:80/pamelaflores/92446060a/100545
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ FHD
-http://5ce.co:80/pamelaflores/92446060a/105465
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ HD
-http://5ce.co:80/pamelaflores/92446060a/105466
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD
-http://5ce.co:80/pamelaflores/92446060a/105467
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD²
-http://5ce.co:80/pamelaflores/92446060a/105468
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD³
-http://5ce.co:80/pamelaflores/92446060a/105469
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD⁴
-http://5ce.co:80/pamelaflores/92446060a/105470
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD⁵
-http://5ce.co:80/pamelaflores/92446060a/105471
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD⁶
-http://5ce.co:80/pamelaflores/92446060a/105472
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD⁷
-http://5ce.co:80/pamelaflores/92446060a/105473
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD⁸
-http://5ce.co:80/pamelaflores/92446060a/105474
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD⁹
-http://5ce.co:80/pamelaflores/92446060a/105475
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD¹⁰
-http://5ce.co:80/pamelaflores/92446060a/105476
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD¹¹
-http://5ce.co:80/pamelaflores/92446060a/105477
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD¹²
-http://5ce.co:80/pamelaflores/92446060a/105478
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD¹³
-http://5ce.co:80/pamelaflores/92446060a/105479
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD¹⁴
-http://5ce.co:80/pamelaflores/92446060a/105480
-#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://fivetv.xyz/logos/tvbrasil.png",TV Brasil RJ SD¹⁵
-http://5ce.co:80/pamelaflores/92446060a/105481
-#EXTINF:-1 group-title="CINE SKY" tvg-logo
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 1
+http://5ce.co:80/pamelaflores/92446060a/122135
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 2
+http://5ce.co:80/pamelaflores/92446060a/95848
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 3
+http://5ce.co:80/pamelaflores/92446060a/122137
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 4
+http://5ce.co:80/pamelaflores/92446060a/122138
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 5
+http://5ce.co:80/pamelaflores/92446060a/122139
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 6
+http://5ce.co:80/pamelaflores/92446060a/122140
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 7
+http://5ce.co:80/pamelaflores/92446060a/122141
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 8
+http://5ce.co:80/pamelaflores/92446060a/122142
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 9
+http://5ce.co:80/pamelaflores/92446060a/122143
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 10
+http://5ce.co:80/pamelaflores/92446060a/95849
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 11
+http://5ce.co:80/pamelaflores/92446060a/122136
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 12
+http://5ce.co:80/pamelaflores/92446060a/95850
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 13
+http://5ce.co:80/pamelaflores/92446060a/95851
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 14
+http://5ce.co:80/pamelaflores/92446060a/95852
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 15
+http://5ce.co:80/pamelaflores/92446060a/98443
+
+#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="CINE SKY", Cine SKY 16
+http://5ce.co:80/pamelaflores/92446060a/98444
