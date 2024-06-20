@@ -1,4 +1,49 @@
 "#EXTM3U
+#EXTINF:0,XXX: HOT HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6690.ts
+#EXTINF:0,Dorcel
+http://vmdirect.co.uk:5001\live\Errol\Errol\6678.ts
+#EXTINF:0,Private TV
+http://80.87.208.158:80\dna-405-tv-pc.m3u8
+#EXTINF:0,Sextreme [Alter]
+http://listaccess.me:8880/live/cordeirokamila/morango1990/7223.ts
+#EXTINF:0,Eroxx
+http://80.87.208.158:80\dna-4631-tv-pc.m3u8
+#EXTINF:0,XXX:PLAYBOY HD
+http://vmdirect.co.uk:5001/live/Errol/Errol/6689.ts
+#EXTINF:0,XXX:Porn Hub
+http://vmdirect.co.uk:5001/live/Errol/Errol/6675.ts
+#EXTINF:0,XXX:VENUS
+http://vmdirect.co.uk:5001/live/Errol/Errol/6694.ts
+#EXTINF:0,XXX:  REDLIGHT
+http://vmdirect.co.uk:5001/live/Errol/Errol/6235.ts
+#EXTINF:0,XXX-BRAZZERS
+http://vmdirect.co.uk:5001/live/Errol/Errol/6693.ts
+#EXTINF:0,XXX:PINK EROTIC 1                              
+http://vmdirect.co.uk:5001/live/Errol/Errol/6669.ts
+#EXTINF:0,XXX: Casting
+http://iptvtool.es:9977\alain\iptv\44888
+#EXTINF:0,XXX: Nubiles Porn
+http://vmdirect.co.uk:5001/live/Errol/Errol/6679.ts
+#EXTINF:0,XXX:adult
+http://vmdirect.co.uk:5001/live/Errol/Errol/6671.ts
+#EXTINF:0,Penthouse 2
+http://iptvtool.es:9977\alain\iptv\44890
+#EXTINF:0,XXX:Cento X Conto
+http://vmdirect.co.uk:5001/live/Errol/Errol/6677.ts
+#EXTINF:0,XXX:Czech Castings
+http://vmdirect.co.uk:5001/live/Errol/Errol/6684.ts
+#EXTINF:0,XXX:DUSK     
+http://vmdirect.co.uk:5001/live/Errol/Errol/6691.ts
+#EXTINF:0,XXX:Evil Angel
+http://vmdirect.co.uk:5001/live/Errol/Errol/6674.ts
+#EXTINF:0,xxx:Fake Taxi
+http://vmdirect.co.uk:5001/live/Errol/Errol/6685.ts
+#EXTINF:0,XXX: Penthouse 1
+http://iptvtool.es:9977\alain\iptv\44884
+#EXTINF:0,XXX:Mix2
+http://vmdirect.co.uk:5001/live/Errol/Errol/6672.ts"
+ https://gist.githubusercontent.com/Blame35/fd5442d366ad92965a4f313772d63737/raw/127af678854fb4adbfc870b8cb5229ec283c708c/novo#:~:text=%23EXTM3U%0A%23EXTINF%3A0,Errol/6672.ts
 #EXTINF:-1 tvg-id="4Kurd.fr" tvg-name="4 Kurd" tvg-country="FR;IQ" tvg-language="Kurdish" tvg-logo="" group-title="",4 Kurd
 http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4TurkMusic.fr" tvg-name="4 Turk Music" tvg-country="FR;TK" tvg-language="Turkish" tvg-logo="" group-title="Music",4 Turk Music
