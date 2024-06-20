@@ -1,3 +1,402 @@
+
+"#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",SBT GO HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",SBT SP HD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",RECORD HD PORTUGAL
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",REDE TV
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w2070232887.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",Record News - (MA)
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",RECORD NEWS
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w849814207.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",SPORT TV 2 HD PORTUGAL
+http://sportsbar.pw/lba/MmI5ZTcxYThjNGY2NTZmODFhZGE2MzcxYzY4ZWZiOWE=/g7/Sport2PT.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",SPORT TV 4 HD PORTUGAL
+http://sportsbar.pw/lba/YmMyZmY0NTVkMDVlZjRhZjZhMWViZWU1NDFkMDRhZDA=/g4/Sport4PT.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",SPORT TV 5 HD PORTUGAL
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="",BAND SP SD
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TELECINE PREMIUM
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/131.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TELECINE PIPOCA
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/129.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TELECINE ACTION
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/126.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TELECINE FUN
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/128.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TELECINE TOUCH
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/134.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TELECINE CULT
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/45.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/194.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO 2
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/204.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO FAMILY
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/191.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO PLUS
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/196.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO PLUS E
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/193.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO SIGNATURE
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/192.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TCM
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/115.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",INVESTIGAÇÃO DISCOVERY
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/171.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",WARNER
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/76.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",UNIVERSAL CHANNEL
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/81.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",FOX
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/223.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",FOX PREMIUM 1
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/225.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",FOX PREMIUM 2
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/221.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",SYFY
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/142.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",SONY
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/127.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",MULTISHOW
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/186.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",NAT GEO KIDS
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/28.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",DISNEY XD
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/230.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",DISNEY JR
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/779.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",TOONCAST
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/558.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",NAT GEO
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/165.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",DISCOVERY TURBO
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/250.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",TLC
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/135.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",DISCOVERY ID
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/171.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",Discovery HD THEATER
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/251.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",GLOBO NEWS
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/213.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",SPORTV
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/143.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",ESPN BRASIL
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/241.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",FOX SPORTS
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/220.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",SPORTV 3
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/114.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",FOX SPORTS 2
+http://visionprime.tk:8080/live/aplicativo/i0WLgctCuR/227.ts?|User-Agent=android
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Animal Planet SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4191.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Discovery Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4154.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Discovery Civilization SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4600.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Discovery Turbo SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4147.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",H2 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4091.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",NatGeo Wild SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4050.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",National Geographic SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4048.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",The History Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4079.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",Curta! SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4155.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Discovery Home & Health SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",E! SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4138.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",FOOD NETWORK SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4124.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",FISH TV
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4125.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",TLC
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3889.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Trutv
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3881.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Mais Globosat
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4068.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",GNT
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4093.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",Boomerang
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4172.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",Cartoon Network
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4166.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",Baby TV
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4184.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",CARTOON RETRO
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4597.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Discovery Kids
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4150.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Disney Channel
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4144.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Disney JR
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4142.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Disney XD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4140.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Gloob
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4095.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Nick Jr.
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4043.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",NatGeo Kids
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4052.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Nickelodeon
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4041.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",TV Ra-tim-bum
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4595.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Combate
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7632.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",ESPN SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4132.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Esporte Interativo
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4127.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",EI Maxx 2
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4135.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 1 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4616.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 2
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4032.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 3
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4031.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 4
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4029.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 5
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4027.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 6
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4025.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere 8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4022.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 4",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4020.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",SporTV 3
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3911.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",SporTV
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3914.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",ESPN +
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5620.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Premiere 7
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4614.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",A&E SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4194.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",AMC
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7670.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Cinemax
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4163.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Comedy Central SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7629.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Discovery Science
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7633.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Fox Life SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4120.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",Fox
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4122.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",FX
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4111.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",HBO 2
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4089.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",HBO Family
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4087.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO Plus E
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4083.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO Plus
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4084.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",HBO SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4090.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 2",HBO Signature
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4081.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",Lifetime SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4070.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 3",I SAT SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4072.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Max Prime E
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4063.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Max Prime
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4064.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",MAX
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4066.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Max UP
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4061.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Paramount
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4036.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Sony
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3918.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Space
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3916.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Studio Universal
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3908.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",SYFY
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3906.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",TBS
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3904.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Telecine Action
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3901.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Telecine Cult
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3899.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Telecine Pipoca
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3895.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Telecine Premium
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3893.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP",Telecine Touch
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3891.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",Warner Channel
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4618.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",TNT
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3887.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",TCM SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3902.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="VIP 1",TNT Series
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3885.m3u8
+"
+ https://gist.githubusercontent.com/cfscicero/a25194b4cd02c9d9006f09c1c953104e/raw/ddf868154257c045df81f16d45bfc36667a03d53/MLIPTV.m3u#:~:text=%23EXTM3U%0A%0A%23EXTINF%3A%2D1,hsm0KMnCQZ/3885.m3u8
+
 "http://smart2.iptv-on.com:8080/live/terdavedian@gmail.com/9ZgFNpsPTG/2528.ts
 #EXTINF:0 tvg-id="ext" group-title="United States",A&E HD US
 http://smart2.iptv-on.com:8080/live/terdavedian@gmail.com/9ZgFNpsPTG/550.ts
