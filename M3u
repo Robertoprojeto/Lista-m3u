@@ -1,7 +1,16 @@
 *
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqjYXZa.png" group-title="BRASIL",FOX
+http://web.escast.online:25461/888@xtv.iptv/@xtv.iptv/4004
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqjYXZa.png" group-title="BRASIL",FOX SD
+http://web.escast.online:25461/888@xtv.iptv/@xtv.iptv/4003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqjYXZa.png" group-title="BRASIL",FOX PREMIUM 1
+http://web.escast.online:25461/888@xtv.iptv/@xtv.iptv/4013
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XqjYXZa.png" group-title="BRASIL",FOX PREMIUM 2
+http://web.escast.online:25461/888@xtv.iptv/@xtv.iptv/4014
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
