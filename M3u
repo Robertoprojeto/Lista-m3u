@@ -1,8 +1,49 @@
 *
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT SD
 https://cr7v.short.gy/manotv/TNT/Index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://cdn2.connectbr.com.br/life/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://video01.kshost.com.br:4443/walmeson9011/walmeson9011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w1384996475.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w1165091078.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://r.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://r.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://cdn.jmvstream.com/w/AVJ-13010/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w2064249760.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://br5093.streamingdevideo.com.br/ujtxpjgkyn/ujtxpjgkyn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES", TNT
+https://5cf4a2c2512a2.streamlock.net/8272/8272/playlist.m3u8
