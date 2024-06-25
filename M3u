@@ -8,7 +8,8 @@
 #EXTM3U url-tvg="tvbox63817@gmail.com"
 
 "#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-
+#EXTINF:0 type="video" channelId="-1" name="Discovery Channel HD" logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png", Discovery Channel
+http://177.105.239.34:8000/play/a002/index.m3u8
 #EXTINF:0 type="stream" channelId="2467" group="Tv Aberta" size="Small", TV Cultura
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
 #EXTINF:0 type="stream" channelId="2569" group="Tv Aberta" size="Small", Canal educão
